@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { ProductDescriptionComponent } from 'app/product-description/product-description.component';
+
 
 @Component({
   selector: 'app-product-page',
